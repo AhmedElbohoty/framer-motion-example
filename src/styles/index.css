@@ -16,9 +16,9 @@
   display: flex;
 }
 
-.dock svg {
+.dock img {
   margin: 0 15px;
-  height: 50px;
-  width: 50px;
+  min-width: 40px;
+  min-height: 40px;
   cursor: pointer;
 }
